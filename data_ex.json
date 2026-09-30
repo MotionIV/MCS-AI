@@ -1,0 +1,8 @@
+{
+    "BOT_TOKEN": "DISCORD_BOT_TOKEN",
+    "GROQ_TOKEN": "GROQ_API_TOKEN",
+    "BOT_CHANNEL_ID": 1234567890,
+    "WORK_IN_ANY_CHANNEL": true,
+    "DEVELOPER_MODEL": "openai/gpt-oss-120b",
+    "SIMPLE_MODEL": "openai/gpt-oss-20b"
+}
